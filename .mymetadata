@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="dinner_manage__new"
+  id="myeclipse.1516064896897"
+  context-root="/dinner_manage"
+  j2ee-spec="5.0"
+  archive="dinner_manage__new.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
